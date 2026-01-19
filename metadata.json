@@ -1,0 +1,7 @@
+{
+  "name": "止鸣 AI - 极简成本，守护权益",
+  "description": "“止鸣”致力于利用 AI 技术，以极简的成本，竭力为您化解法律烦恼，守护每一份合法权益。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
